@@ -60,3 +60,12 @@ lastnames.txt contains usernames such as:
 	
 	
  
+firstnames.txt containts the top 100 male and top 100 female names such as:
+
+	james
+	john
+	robert
+	...[snip]...
+	tiffany
+	alexis
+	kayla
