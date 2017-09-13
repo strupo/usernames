@@ -2,10 +2,11 @@
 
  Last names were pulled from mongabay (http://names.mongabay.com/data/1000.html) and are the top 1000 in order of most to    least common.
  
- I forgot where I pulled the list of first names from. I searched for top names and grabbed the tables from the first result. If anyone has names from census data please hit me up on twitter (@strupo_) and let me know.  
- 
  firstnames_long.txt and FIRSTNAMES_LONG.txt are sourced from: http://deron.meranda.us/data/census-derived-all-first.txt
-
+ There are 7275 names in this list. 
+ 
+ firstnames.txt has 200 names in it, 100 of the most common male names and 100 of the most common female names. I don't remember the source for this list nor which generation they were popular in. 
+ 
 
 A-Znumbers_ascend.csv contains usersnames such as:
 
