@@ -70,3 +70,15 @@ firstnames.txt containts the top 100 male and top 100 female names such as:
 	tiffany
 	alexis
 	kayla
+
+firstnames_long.txt and FIRSTNAMES_LONG.txt are the same name list with different cases. There are total 4275 names in this list.
+
+	mary
+	patricia
+	linda
+	...[snip]...
+	angila
+	alona
+	allyn
+	
+	
