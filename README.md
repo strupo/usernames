@@ -16,7 +16,7 @@ A-Znumbers_ascend.csv contains usersnames such as:
   
 
 
-a-znumber_descend.txt contains usernames such as:
+a-znumber_descend.csv contains usernames such as:
 
 	a99999, b99999, c99999, etc...
 	a99998, b99998, c99998, etc...
