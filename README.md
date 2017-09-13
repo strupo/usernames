@@ -31,6 +31,7 @@ firstinitiallast.txt contains usernames such as:
   Last names were pulled from mongabay (http://names.mongabay.com/data/1000.html) and are the top 1000 in order of most to    least common.
 
 first.last.txt contains usernames such as:
+
 	james.smith
 	james.johnson
 	...[snip]...
