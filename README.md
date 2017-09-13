@@ -5,8 +5,8 @@
  firstnames_long.txt was sourced from: http://deron.meranda.us/data/census-derived-all-first.txt
  There are 4275 names in this list. FIRSTNAMES_LONG.txt is the same list but in all caps.  
  
- firstnames.txt has 200 names in it, 100 of the most common male names and 100 of the most common female names. 
- I don't remember the source for this list nor which generation they were popular in. 
+ firstnames.txt has 200 names in it. It is apparently the top 100 names for males and females over the last 100 years. 
+ If I remember correctly, this list was sourced from: https://www.ssa.gov/oact/babynames/decades/century.html
  
 
 A-Znumbers_ascend.csv contains usersnames such as:
