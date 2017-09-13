@@ -47,4 +47,17 @@ first.last.txt contains usernames such as:
 	kayla.key
 	kayla.cooke
 	
+	
+	
+lastnames.txt contains usernames such as:
+
+	smith
+	johnson
+	williams
+	...[snip]...
+	kidd
+	key
+	cooke
+	
+	
  
