@@ -1,6 +1,6 @@
 # usernames
 
- Last names were pulled from mongabay (http://names.mongabay.com/data/1000.html) and are the top 1000 in order of most to    least common.
+ lastnames.txt was pulled from mongabay (http://names.mongabay.com/data/1000.html) and are the top 1000 in order of most to    least common.
  
  firstnames_long.txt was sourced from: http://deron.meranda.us/data/census-derived-all-first.txt
  There are 4275 names in this list. FIRSTNAMES_LONG.txt is the same list but in all caps.  
@@ -84,7 +84,9 @@ firstnames_long.txt and FIRSTNAMES_LONG.txt are the same name list with differen
 	alona
 	allyn
 	
-firstinitiallast_long comes has an entery for each letter infront of the lastnames_2500.txt list:
+	
+	
+firstinitiallast_long.txt comes has an entery for each letter infront of the lastnames_2500.txt list:
 
 	asmith
 	bsmith
@@ -93,4 +95,5 @@ firstinitiallast_long comes has an entery for each letter infront of the lastnam
 	xgerber
 	ygerber
 	zgerber
+
 
