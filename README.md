@@ -8,6 +8,7 @@
  firstnames.txt has 200 names in it. It is apparently the top 100 names for males and females over the last 100 years. 
  If I remember correctly, this list was sourced from: https://www.ssa.gov/oact/babynames/decades/century.html
  
+ lastma,es_2500.txt comes from: http://deron.meranda.us/data/census-dist-2500-last.txt
 
 A-Znumbers_ascend.csv contains usersnames such as:
 
@@ -83,4 +84,13 @@ firstnames_long.txt and FIRSTNAMES_LONG.txt are the same name list with differen
 	alona
 	allyn
 	
-	
+firstinitiallast_long comes has an entery for each letter infront of the lastnames_2500.txt list:
+
+	asmith
+	bsmith
+	csmith
+	...[snip]...
+	xgerber
+	ygerber
+	zgerber
+
