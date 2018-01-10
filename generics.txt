@@ -51,3 +51,15 @@ info
 mychart
 mychartsupport
 read
+catalog
+console
+records
+erecords
+hive
+host
+http
+httpfs
+monitoring
+mssqlsvc
+orchestrator
+orientation
