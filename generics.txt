@@ -63,3 +63,5 @@ monitoring
 mssqlsvc
 orchestrator
 orientation
+public
+data
