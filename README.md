@@ -12,6 +12,8 @@
 
  top100_lastnames_russian.txt from: http://www.lowchensaustralia.com/names/popular-russian-names.htm
  
+ rop100_lastnames_chinese.txt from: http://www.sinosplice.com/learn-chinese/chinese-vocabulary-lists/the-top-100-chinese-surnames (note: after removing the special characters, "li" appeared twice on this list. I removed one instance of it and added "xi" which was chosen arbitrarily.)
+ 
 A-Znumbers_ascend.csv contains usersnames such as:
 
   	A00000, B00000, C00000, etc...
