@@ -10,6 +10,8 @@
  
  lastnames_2500.txt comes from: http://deron.meranda.us/data/census-dist-2500-last.txt
 
+ top100_lastnames_russian.txt from: http://www.lowchensaustralia.com/names/popular-russian-names.htm
+ 
 A-Znumbers_ascend.csv contains usersnames such as:
 
   	A00000, B00000, C00000, etc...
