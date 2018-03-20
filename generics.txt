@@ -138,6 +138,7 @@ unix
 unixadmin
 user
 visitor
+vmadmin
 vmware
 voicemail
 warehouse
