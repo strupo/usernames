@@ -3,6 +3,7 @@ accounts
 admin
 administrator
 agent
+ambassador
 anonymous
 archive
 auto-message
@@ -12,6 +13,7 @@ badmin
 bai
 batch
 bugzilla
+business
 cafe
 career
 careers
@@ -78,6 +80,7 @@ mychart
 mychartsupport
 net
 netlog
+newbusiness
 news
 oracle
 orchestrator
@@ -126,6 +129,7 @@ supportdev
 svc_sql
 syslog
 tech
+technicalservice
 temp
 test
 testing
