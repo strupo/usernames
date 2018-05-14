@@ -5,6 +5,7 @@ administrator
 agent
 ambassador
 anonymous
+ap
 archive
 auto-message
 b2b
@@ -26,6 +27,7 @@ compliance
 connect
 console
 contact
+contactus
 contractor
 credit
 cs
@@ -34,6 +36,7 @@ customersales
 data
 default
 direction
+dispatch
 ecommerce
 employee
 erecords
@@ -80,8 +83,12 @@ mychart
 mychartsupport
 net
 netlog
+network
+networkadmin
 newbusiness
 news
+noc
+noctechs
 oracle
 orchestrator
 order
@@ -112,6 +119,8 @@ root
 sa
 sac
 sales
+security
+securitysupervisor
 service
 services
 sharepoint
@@ -149,6 +158,7 @@ warehouse
 webadmin
 webmaster
 websense
+whiteboard
 wmi
 worker
 workflow
