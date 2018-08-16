@@ -5,6 +5,7 @@ administrator
 agent
 ambassador
 anonymous
+antispam
 ap
 archive
 auto-message
