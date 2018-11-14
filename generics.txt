@@ -63,6 +63,7 @@ ftp
 ftpuser
 generic
 gotomeeting
+groups
 help
 helpdesk
 hive
