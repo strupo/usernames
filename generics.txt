@@ -53,6 +53,7 @@ dnsadmin
 ecommerce
 employee
 erecords
+eservice
 eservices
 exchange
 fax
