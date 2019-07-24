@@ -110,6 +110,8 @@ messaging
 milhouse
 monitoring
 mssqlsvc
+museadmin
+MuseBkgnd
 mychart
 mychartsupport
 net
@@ -163,6 +165,7 @@ sales
 scanner
 scom
 scomagent
+secmaster
 secure
 securemail
 security
