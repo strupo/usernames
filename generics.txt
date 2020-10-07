@@ -234,6 +234,7 @@ vsphereoperations
 voicemail
 warehouse
 webadmin
+weblogic
 webmaster
 websense
 whiteboard
