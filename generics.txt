@@ -45,6 +45,9 @@ customer
 customersales
 customerservice
 data
+dba
+dbadmin
+dbuser
 default
 direction
 dispatch
